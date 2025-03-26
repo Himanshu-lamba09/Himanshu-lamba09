@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himanshu Lamba  
 
-🔌 **Electrical Engineering Student | AI & Automation Enthusiast**  
+🔌 Electrical Engineering Student | AI & Automation Enthusiast**  
 🎓 Pursuing **Electrical Engineering** at **RBS College**  
 💡 Passionate about **AI, Computer Vision, and Smart Systems**  
 
